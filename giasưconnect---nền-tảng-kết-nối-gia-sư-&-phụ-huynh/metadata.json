@@ -1,0 +1,8 @@
+{
+  "name": "GiaSưConnect - Nền tảng kết nối Gia sư & Phụ huynh",
+  "description": "Một ứng dụng hiện đại giúp phụ huynh tìm kiếm gia sư phù hợp và gia sư tìm được lớp học lý tưởng với sự hỗ trợ của AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
